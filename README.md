@@ -10,3 +10,10 @@ An interactive software for improving social meetings.
 
 ## Developed with JavaFx Library
 
+## Getting started
+
+1.
+```
+git clone https://github.com/ryankibayhan/MetNow.git
+```
+
